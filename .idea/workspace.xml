@@ -85,7 +85,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Problema1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.self.Main" />
       <module name="Pentalog" />
@@ -96,8 +96,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problema1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.self.Problema1" />
+      <module name="Pentalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.self.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problema1" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
