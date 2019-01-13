@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8913bf82-1fea-4295-8d35-c0bfafa2adee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/self/tema1/StringContainsString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/self/tema1/CharAppears.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,11 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/self/tema1/StringContainsString.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/self/tema1/CharAppears.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -50,6 +59,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>someString</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -67,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/com/self/tema1/PosXinVector.java" />
         <option value="$PROJECT_DIR$/src/com/self/tema1/OddEven.java" />
         <option value="$PROJECT_DIR$/src/com/self/tema1/StringContainsString.java" />
+        <option value="$PROJECT_DIR$/src/com/self/tema1/CharAppears.java" />
       </list>
     </option>
   </component>
@@ -125,9 +140,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringContainsString">
-    <configuration name="ConcatArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.self.tema1.ConcatArrays" />
+  <component name="RunManager" selected="Application.CharAppears">
+    <configuration name="CharAppears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.self.tema1.CharAppears" />
       <module name="Pentalog" />
       <extension name="coverage">
         <pattern>
@@ -193,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharAppears" />
         <item itemvalue="Application.StringContainsString" />
         <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.PosXinVector" />
         <item itemvalue="Application.MinMaxAverageVector" />
-        <item itemvalue="Application.ConcatArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -318,8 +333,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/self/tema1/StringContainsString.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/CharAppears.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
