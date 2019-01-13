@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8913bf82-1fea-4295-8d35-c0bfafa2adee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/self/tema1/PosXinVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/self/tema1/OddEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,10 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/self/tema1/PosXinVector.java">
+        <entry file="file://$PROJECT_DIR$/src/com/self/tema1/OddEven.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="483">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/self/tema1/PosXinVector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -47,6 +56,7 @@
         <option value="$PROJECT_DIR$/src/com/self/tema1/ConcatArrays.java" />
         <option value="$PROJECT_DIR$/src/com/self/tema1/MinMaxAverageVector.java" />
         <option value="$PROJECT_DIR$/src/com/self/tema1/PosXinVector.java" />
+        <option value="$PROJECT_DIR$/src/com/self/tema1/OddEven.java" />
       </list>
     </option>
   </component>
@@ -105,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PosXinVector">
+  <component name="RunManager" selected="Application.OddEven">
     <configuration name="ArrayAreEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.self.tema1.ArrayAreEqual" />
       <module name="Pentalog" />
@@ -132,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstEqualLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.self.tema1.FirstEqualLast" />
+    <configuration name="MinMaxAverageVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.self.tema1.MinMaxAverageVector" />
       <module name="Pentalog" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxAverageVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.self.tema1.MinMaxAverageVector" />
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.self.tema1.OddEven" />
       <module name="Pentalog" />
       <extension name="coverage">
         <pattern>
@@ -173,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.PosXinVector" />
         <item itemvalue="Application.MinMaxAverageVector" />
         <item itemvalue="Application.ConcatArrays" />
         <item itemvalue="Application.ArrayAreEqual" />
-        <item itemvalue="Application.FirstEqualLast" />
       </list>
     </recent_temporary>
   </component>
@@ -195,15 +205,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2531983" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41794312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32887402" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3322072" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,8 +295,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/self/tema1/PosXinVector.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/OddEven.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
         </state>
       </provider>
     </entry>
