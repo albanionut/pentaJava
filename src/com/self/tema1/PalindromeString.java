@@ -8,7 +8,7 @@ public class PalindromeString {
         System.out.println("Introduce the string :");
         String palindrome =new String(sc.nextLine());
         String emordnilap="";
-        for (int i = palindrome.length()-1; i>=0 ; i--) { // first try was with length and i>0 who was incorrect.. 
+        for (int i = palindrome.length()-1; i>=0 ; i--) { // first try was with length and i>0 who was incorrect..
             emordnilap =emordnilap + palindrome.charAt(i);
         }
         if (palindrome.equals(emordnilap))
