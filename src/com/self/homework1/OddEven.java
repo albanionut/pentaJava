@@ -1,4 +1,4 @@
-package com.self.tema1;
+package com.self.homework1;
 
 import java.util.Scanner;
 

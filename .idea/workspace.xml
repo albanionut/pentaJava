@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8913bf82-1fea-4295-8d35-c0bfafa2adee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/self/tema1/ConvertCharToInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/self/tema1/PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/self/tema1/PalindromeString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/self/tema1/ConvertCharToInt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,11 +48,12 @@
         <option value="$PROJECT_DIR$/src/com/self/tema1/NewAlphabet.java" />
         <option value="$PROJECT_DIR$/src/com/self/tema1/PalindromeString.java" />
         <option value="$PROJECT_DIR$/src/com/self/tema1/ConvertCharToInt.java" />
+        <option value="$PROJECT_DIR$/src/com/self/tema1/DuplicateLetters.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -73,6 +62,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,9 +93,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AlgortimicaGrafurilor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,13 +110,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConvertCharToInt">
+  <component name="RunManager" selected="Application.DuplicateLetters">
     <configuration name="CharAppears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.self.tema1.CharAppears" />
+      <option name="MAIN_CLASS_NAME" value="com.self.homework1.CharAppears" />
       <module name="Pentalog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.self.tema1.*" />
+          <option name="PATTERN" value="com.self.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +125,24 @@
       </method>
     </configuration>
     <configuration name="ConvertCharToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.self.tema1.ConvertCharToInt" />
+      <option name="MAIN_CLASS_NAME" value="com.self.homework1.ConvertCharToInt" />
       <module name="Pentalog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.self.tema1.*" />
+          <option name="PATTERN" value="com.self.homework1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.self.tema1.DuplicateLetters" />
+      <module name="Pentalog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.self.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,24 +151,11 @@
       </method>
     </configuration>
     <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.self.tema1.PalindromeString" />
+      <option name="MAIN_CLASS_NAME" value="com.self.homework1.PalindromeString" />
       <module name="Pentalog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.self.tema1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringContainsString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.self.tema1.StringContainsString" />
-      <module name="Pentalog" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.self.tema1.*" />
+          <option name="PATTERN" value="com.self.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +164,11 @@
       </method>
     </configuration>
     <configuration name="Suffix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.self.tema1.Suffix" />
+      <option name="MAIN_CLASS_NAME" value="com.self.homework1.Suffix" />
       <module name="Pentalog" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.self.tema1.*" />
+          <option name="PATTERN" value="com.self.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateLetters" />
         <item itemvalue="Application.ConvertCharToInt" />
         <item itemvalue="Application.PalindromeString" />
         <item itemvalue="Application.Suffix" />
         <item itemvalue="Application.CharAppears" />
-        <item itemvalue="Application.StringContainsString" />
       </list>
     </recent_temporary>
   </component>
@@ -208,15 +200,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1359275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32218507" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3188406" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -247,13 +239,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/Problema1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -302,13 +287,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/PosXinVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/self/tema1/OddEven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -323,13 +301,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/NewAlphabet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/NewAlphabet.java" />
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -337,13 +309,6 @@
           <folding>
             <element signature="e#22821#22822#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/PalindromeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="115" lean-forward="true" selection-start-line="10" selection-start-column="115" selection-end-line="10" selection-end-column="115" />
         </state>
       </provider>
     </entry>
@@ -358,6 +323,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/PalindromeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/PosXinVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/Problema1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/self/tema1/DuplicateLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
