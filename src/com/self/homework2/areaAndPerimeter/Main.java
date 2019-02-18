@@ -36,6 +36,7 @@ public class Main {
         System.out.println();
         System.out.println("Biggest Area: ");
         System.out.println(service.getBiggestArea(shapes));
+        System.out.println(service.getBiggestArea(shapes));
         System.out.println("Biggest Perimeter: ");
         System.out.println(service.getBiggestPerimeter(shapes));
 

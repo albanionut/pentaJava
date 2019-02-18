@@ -16,4 +16,5 @@ public class Square extends Shape {
         perimeter = 4 * side;
         return perimeter;
     }
+
 }
