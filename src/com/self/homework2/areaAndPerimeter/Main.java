@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
+     /*
+        Create an application that knows how to calculate the perimeter and area for common shapes(circle, square, rectangle, triangle)
+     To test it: create few objects of each type and print to the console informations about the object that has the biggest area
+     */
+
     public static void main(String[] args) {
         Shape circle = new Circle(3);
         System.out.println("//Circle");
