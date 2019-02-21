@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8913bf82-1fea-4295-8d35-c0bfafa2adee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/self/homework2/boardChat/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/self/homework2/boardChat/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/self/homework2/boardChat/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/self/homework2/boardChat/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/self/homework2/boardChat/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/self/homework2/boardChat/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/self/homework2/boardChat/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
